@@ -1,2 +1,2 @@
 # PythonDA
-Data Analytics with Python
+Analyzing student scores dataset with Python to decode study habits & success factors.
